@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/stevearc/aerial.nvim/compare/v1.3.0...v1.4.0) (2023-10-12)
+
+
+### Features
+
+* **lualine:** added `sep_icon` option ([#303](https://github.com/stevearc/aerial.nvim/issues/303)) ([9ef83d9](https://github.com/stevearc/aerial.nvim/commit/9ef83d9a7a4ac471d14e608da50b8d91459cae10))
+
 ## [1.3.0](https://github.com/stevearc/aerial.nvim/compare/v1.2.0...v1.3.0) (2023-10-12)
 
 
